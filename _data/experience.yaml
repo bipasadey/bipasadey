@@ -1,0 +1,30 @@
+experiences:
+  - place: "University of Washington"
+    time: "2025 - now"
+    title: "Postdoctoral Researcher"
+    subtitle: "School of Biological Sciences"
+    category: "work"
+
+  - place: "Indian Institute Technology Delhi"
+    time: "2019 - now"
+    title: "Doctoral Candidate"
+    subtitle: "School of Biological Sciences"
+    category: "work"
+
+  - place: "Indian Council of Medical Research"
+    time: "Jan-Oct 2019"
+    title: "Research Assistant"
+    subtitle: "Department of Knowledge Technologies"
+    category: "work"
+
+  - place: "Delhi University"
+    time: "2016 - 2018"
+    title: "M.Sc. Student"
+    subtitle: "Specialisation in Organic Chemistry"
+    category: "university"
+
+  - place: "Delhi University"
+    time: "2013 - 2016"
+    title: "B.Sc. Student"
+    subtitle: "Chemistry <br/> First Class Honours"
+    category: "school"

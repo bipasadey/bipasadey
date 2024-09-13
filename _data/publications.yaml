@@ -1,0 +1,22 @@
+papers:
+
+  - title: "Fructose-aided cross-linked enzyme aggregates of laccase: An insight on its chemical and physical properties"
+    authors: "<b>Bipasa Dey</b>, Varsha Panwar and Tanmay Dutta"
+    venue: "Elsevier Process Biochemistry Volume 133, October 2023, Pages 220-227"
+    paper_link: "https://www.sciencedirect.com/science/article/abs/pii/S1359511323002957"
+    paper_pdf: "/assets/publications/2023_embedding_societal_values/paper.pdf"
+    selected: y
+
+  - title: "Laccases: Thriving the domain of bio-electrocatalysis"
+    authors: "<b>Bipasa Dey</b>, Tanmay Dutta"
+    venue: "Science Direct Bioelectrochemistry Volume 146, August 2022, 108144"
+    paper_link: "https://www.sciencedirect.com/science/article/abs/pii/S1567539422000950"
+    paper_pdf: "/assets/publications/2023_peer_review/paper.pdf"
+    selected: y
+
+  - title: "Thermostable bacterial laccase for sustainable dyeing using plant phenols"
+    authors: "Varsha Panwar, <b>Bipasa Dey</b>, Javed Nabibaksha Sheikh  and  Tanmay Dutta"
+    venue: "RSC Adv., 2022,12, 18168-18180 "
+    paper_link: "https://pubs.rsc.org/en/content/articlelanding/2022/ra/d2ra02137d"
+    paper_pdf: "/assets/publications/2022_newsbridge/paper.pdf"
+    selected: y
